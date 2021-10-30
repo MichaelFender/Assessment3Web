@@ -36,3 +36,27 @@ input {
 img {
 	max-width: 300px;
 }
+
+#color {
+	width: 100%;
+	padding: 25px;
+	background-color: yellow;
+	color: black;
+	font-size: 25px;
+  }
+
+  #ritual {
+	width: 100%;
+	padding: 25px;
+	background-color: yellow;
+	color: black;
+	font-size: 25px;
+  }
+
+  #place {
+	width: 100%;
+	padding: 25px;
+	background-color:yellow;
+	color: black;
+	font-size: 25px;
+  }
