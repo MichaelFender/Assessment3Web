@@ -3,7 +3,7 @@ document.getElementById("color").addEventListener("click", function() {
   });
 
   document.getElementById("place").addEventListener("click", function() {
-    document.getElementById("demo").innerHTML = "My favorite place is Broken Bow, Oklahoma";
+    document.getElementById("demo").innerHTML = "My favorite place is Broken Bow, Oklahoma - with Kay";
   });
 
   document.getElementById("ritual").addEventListener("click", function() {

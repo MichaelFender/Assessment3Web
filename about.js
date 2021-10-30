@@ -5,13 +5,13 @@ console.log("hello world");
 function handleSubmit(evt) {
 	evt.preventDefault();
 	
-	alert('Your form has been successfully submit');
+	alert('Your form has been successfully submitted');
 }
 
 function handleSubmit(evt) {
 	evt.preventDefault();
 	
-	alert('Your form has been successfully submit');
+	alert('Your form has been successfully submitted');
 }
 
 
