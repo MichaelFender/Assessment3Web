@@ -10,3 +10,4 @@ document.getElementById("color").addEventListener("click", function() {
     document.getElementById("demo").innerHTML = "My favorite ritual is morning coffee with my wife :)";
   });
 
+  
